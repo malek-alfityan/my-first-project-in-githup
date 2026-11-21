@@ -1,0 +1,14 @@
+C:\Users\USER\source\cloud\cloud\obj\Debug\net9.0\cloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\cloud\cloud\obj\Debug\net9.0\cloud.AssemblyInfoInputs.cache
+C:\Users\USER\source\cloud\cloud\obj\Debug\net9.0\cloud.AssemblyInfo.cs
+C:\Users\USER\source\cloud\cloud\obj\Debug\net9.0\cloud.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\cloud\cloud\bin\Debug\net9.0\cloud.exe
+C:\Users\USER\source\cloud\cloud\bin\Debug\net9.0\cloud.deps.json
+C:\Users\USER\source\cloud\cloud\bin\Debug\net9.0\cloud.runtimeconfig.json
+C:\Users\USER\source\cloud\cloud\bin\Debug\net9.0\cloud.dll
+C:\Users\USER\source\cloud\cloud\bin\Debug\net9.0\cloud.pdb
+C:\Users\USER\source\cloud\cloud\obj\Debug\net9.0\cloud.dll
+C:\Users\USER\source\cloud\cloud\obj\Debug\net9.0\refint\cloud.dll
+C:\Users\USER\source\cloud\cloud\obj\Debug\net9.0\cloud.pdb
+C:\Users\USER\source\cloud\cloud\obj\Debug\net9.0\cloud.genruntimeconfig.cache
+C:\Users\USER\source\cloud\cloud\obj\Debug\net9.0\ref\cloud.dll
